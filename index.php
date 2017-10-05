@@ -54,7 +54,7 @@
             }
 
         else{
-          echo "error";
+          echo "Error";
         }
         ?>
   </table>
